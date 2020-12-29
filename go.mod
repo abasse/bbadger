@@ -1,4 +1,6 @@
-module github.com/alash3al/bbadger
+module github.com/abasse/bbadger
+
+go 1.15
 
 require (
 	github.com/AndreasBriese/bbloom v0.0.0-20180913140656-343706a395b7 // indirect
